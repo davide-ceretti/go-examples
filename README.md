@@ -1,10 +1,10 @@
 go-examples
------------
+===========
 
 Some of simple programs written in Go.
 
 Dependencies
-============
+------------
 
 Go 1.1.2
 
@@ -12,10 +12,9 @@ Go 1.1.2
 
 
 How to run the examples
-=======================
+-----------------------
 
     cd helloworld
-
     go run helloworld.go
 
 or
